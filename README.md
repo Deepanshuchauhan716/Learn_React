@@ -1,16 +1,45 @@
-# React + Vite
+# ⚛️ React.js Learning
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,vscode,github" />
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <b>Documenting my journey of learning React.js.</b>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📌 About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This repository is a collection of my React.js learning journey.
 
-## Expanding the ESLint configuration
+I have started exploring React.js to understand how modern frontend applications are built using reusable components and a component-based approach.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Here, I will document the concepts I learn, practice coding, and maintain my progress along the way.
+
+## 🎯 Purpose
+
+- Learn React.js from the fundamentals.
+- Understand concepts through practical coding.
+- Improve my JavaScript and frontend development skills.
+- Maintain a record of my learning progress.
+
+## 🛠️ Technologies
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Visual Studio Code
+- Git & GitHub
+
+## 📍 Current Progress
+
+Currently exploring the fundamentals of React.js and understanding its core concepts.
+
+---
+
+<p align="center">
+  **Learning one concept at a time. Building step by step. 🚀**
+</p>
