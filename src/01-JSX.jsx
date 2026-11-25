@@ -46,3 +46,26 @@ function MyJSXPractice(){
 }
 
 export default MyJSXPractice;
+
+// Chapter 2: JSX ke 3 Sunehri Rules (The "Rules")
+
+// Rule 1: class nahi, className likho
+
+// HTML mein hum <div class="box"> likhte hain. Par JavaScript mein class ek reserved keyword hai (jo classes banane ke liye use hota hai). Isliye React ne iska naam badal diya.
+
+// HTML: <div class="box">
+
+// JSX: <div className="box"> ✅
+
+// Rule 2: Ek hi Parent  hona chahiye
+// Aap ek component se ek saath do alag-alag tags return nahi kar sakte. Unko ek parent ke andar lapetna padega.
+
+
+// Rule 3: Har tag band hona chahiye (Self-Closing)
+// HTML mein <img>, <br>, <input> bina band kiye chalte hain. Par JSX mein har tag ko band karna zaroori hai. Agar uske andar kuch nahi hai, toh slash lagao.
+
+// HTML: <img src="pic.jpg">
+
+// JSX: <img src="pic.jpg" /> ✅
+
+
