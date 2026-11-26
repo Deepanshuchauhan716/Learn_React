@@ -11,7 +11,7 @@ function Rule1(){
 
             <div className="my-box">Iam a new box</div>
         </div>
-    )
+    );
 }
 
 // 📖 Rule 2: Ek hi Parent hona chahiye
@@ -29,6 +29,19 @@ function Rule2(){
         </div>
         </>
 
-    )
+    );
 }
-export {Rule1,Rule2};
+
+
+// 📖 Rule 3: Har tag band hona chahiye (Self-Closing)
+
+function Rule3(){
+    return(
+        <>
+            <h1>Rule 3</h1>
+            <img src="photo.jpg" alt="Profile photo" />
+            <input type="text" />
+        </>
+    );
+}
+export {Rule1,Rule2,Rule3};
