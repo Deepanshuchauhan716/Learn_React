@@ -2,6 +2,7 @@ import MyJSXPractice from "./01-JSX";
 import { Rule1,Rule2,Rule3} from "./02-JSX";
 import { User ,CurlyBraces} from "./03-JSX";
 import { ConditionalDemo } from "./04-JSX";
+import { MovieList } from "./05-JSX";
 
 
 function App() {
@@ -14,12 +15,14 @@ function App() {
         <Rule2></Rule2>
         <hr />
         <Rule3></Rule3> */}
-        <hr />
+        {/* <hr />
         <User></User>
         <hr />
         <CurlyBraces></CurlyBraces>
         <hr />
-        <ConditionalDemo></ConditionalDemo>
+        <ConditionalDemo></ConditionalDemo> */}
+        <hr />
+        <MovieList></MovieList>
       </div>
     );
   }
