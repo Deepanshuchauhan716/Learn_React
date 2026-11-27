@@ -3,6 +3,7 @@ import { Rule1,Rule2,Rule3} from "./02-JSX";
 import { User ,CurlyBraces} from "./03-JSX";
 import { ConditionalDemo } from "./04-JSX";
 import { MovieList } from "./05-JSX";
+import { LightSwitch } from "./06-JSX";
 
 
 function App() {
@@ -21,8 +22,10 @@ function App() {
         <CurlyBraces></CurlyBraces>
         <hr />
         <ConditionalDemo></ConditionalDemo> */}
+        {/* <hr />
+        <MovieList></MovieList> */}
         <hr />
-        <MovieList></MovieList>
+        <LightSwitch></LightSwitch>
       </div>
     );
   }
